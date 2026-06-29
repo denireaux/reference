@@ -1,5 +1,3 @@
----
-
 ```
 utilities/
 └── anomaly_management/
