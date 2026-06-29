@@ -1,5 +1,3 @@
-Based on everything I know about your stack — the CM-09 suite, your existing `utilities/kafka/`, `utilities/hv_inventory/fleet_util.sh`, the ICD 2.0 alignment, S3 sync, and the MT-CM-09 scenario coverage requirement — here's the structure:
-
 ---
 
 ```
